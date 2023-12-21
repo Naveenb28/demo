@@ -1,0 +1,9 @@
+{
+    "Products":[
+        {"id":1,"name":"Samsung S23","price":95000},
+        {"id":2,"name":"Samsung S23 FE","price":63000},
+        {"id":3,"name":"IPhone 13","price":85000},
+        {"id":4,"name":"Asus Vivobook","price":78000},
+        {"id":5,"name":"IPhone 15","price":99000}
+    ]
+}
